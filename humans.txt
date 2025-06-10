@@ -1,0 +1,13 @@
+/* TEAM */
+Desarrollador: Jhosseeth Naranjo
+Contacto: djosephn@gmail.com
+Ubicación: Medellin6, Colombia
+
+/* SITE */
+Última actualización: 2025/06/10
+Lenguajes: HTML, CSS, JavaScript
+Herramientas: Tu stack tecnológico
+Software: Tu editor/framework
+
+/* THANKS */
+Agradecimientos especiales a quienes contribuyeron al proyecto
